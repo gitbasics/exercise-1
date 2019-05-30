@@ -1,5 +1,5 @@
-# Git day to day usage
-### Here are some commands you would use on a daily basis:
+# exercise 1
+### create a local repository, commit to it
 > git init exercise-1
 
 > cd exercise-1
